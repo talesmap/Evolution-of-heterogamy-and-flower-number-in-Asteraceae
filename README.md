@@ -29,5 +29,3 @@ For any questions or requests, please contact me at tales.paiva@ifpb.edu.br
 Scripts 01 and 03 save objects to `intermediate_objects/*.rds`. This lets you
 run 02, 04, or 05 without repeating the slow steps (`make.simmap`,
 `fitContinuous`) — as long as 01 and 03 have already been run once.
-
-## END
